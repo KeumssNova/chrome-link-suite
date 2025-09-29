@@ -207,7 +207,7 @@ const LinkTree = () => {
         {/* Footer */}
         <div className="mt-12 text-center">
           <Badge variant="outline" className="glass-badge">
-            Powered by Future Tech ⚡
+            Powered by Nova Corporation
           </Badge>
         </div>
       </div>
